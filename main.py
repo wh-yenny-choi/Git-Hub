@@ -10,5 +10,6 @@ def new_feature():
 
 def new():
     print('new')
+    print('hi')
 
 
