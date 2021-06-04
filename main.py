@@ -1,4 +1,5 @@
 print('master branch')
 
 def experimental():
-    pass
+    a=1+2
+    print('a')
