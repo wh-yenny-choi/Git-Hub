@@ -1,7 +1,5 @@
 print('SOS ERROR')
 
-<<<<<<< HEAD
-print('master')
 
 print('my-branch')
 
