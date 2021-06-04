@@ -6,6 +6,6 @@ def experimental():
 
 
 def new_feature():
-    pass
+    print('dev dev')
 
 
